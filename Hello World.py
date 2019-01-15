@@ -49,4 +49,4 @@ print("Adnan", end=" ") #normally python 3 would put a space by seeing comma, so
 print("There are <", 2**32, "> possibilities!", sep=" ")
 print("There are <", 2**32, "> possibilities!", sep="")
 
-#INCOMPLETE COULD NOT LEARN NICEYLY
+#INCOMPLETE COULD NOT LEARN Perfectly
